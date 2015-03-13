@@ -57,3 +57,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Client/nbproject/private/
+/Client/build/
+/Client/dist/
+/Server/nbproject/private/
